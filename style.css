@@ -1,0 +1,58 @@
+body{
+    
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+.navbar{
+    background-color: rgb(171, 248, 152);
+    margin-bottom: 5%;
+    max-width: 100%;
+        }
+.textores{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin-top: 7%;
+    margin-left: 5%;
+    padding-left: 5%;
+    border: 5%;
+}
+#fotoarriba{
+    image-resolution: 300dpi;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+.tituloexperiencia{
+    color: black;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+main{
+    background-color: whitesmoke;
+    margin-top: 5%;
+    align-items: center;
+}
+.list-group{
+    margin-top: 5%;
+    align-items: center;
+}
+section{
+    background-color: whitesmoke;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    align-items: center;
+
+}
+.fa-linkedin{
+    width: 28px;
+    height: 32px;
+}
+footer{
+    background-color: white;
+    margin-top: 5%;
+    align-items: center;
+
+}
